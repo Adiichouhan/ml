@@ -1,7 +1,6 @@
 
 import streamlit as st 
 from PIL import Image
-import mlxtend
 import pickle
 import numpy as np
 import matplotlib.pyplot as plt
